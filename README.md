@@ -1,2 +1,2 @@
 # KidoBot
-that bot... you know the one... her...
+The one bot that everyone knows, you know it he knows, everyone!
